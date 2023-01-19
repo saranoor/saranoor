@@ -10,12 +10,15 @@
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saranoor&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saranoor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+  
 </div>
 
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranoor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
 </div>
 ---
