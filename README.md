@@ -15,6 +15,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saranoor&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </div>
+
+### Top Languages
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saranoor)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
